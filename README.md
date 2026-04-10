@@ -45,7 +45,7 @@
 
 <div class="container">
     <div class="header">
-        <img src="aku.jpg" alt="aku">
+        <img src="san.jpg" alt="aku">
         <div>
             <h1>CV </h1>
             <p>saputrikhsan155@gmail.com<br>
